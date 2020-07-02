@@ -1,0 +1,4 @@
+#Tue Jun 30 12:32:37 IST 2020
+base.0=C\:\\Users\\wonder\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\dex\\debug\\minifyDebugWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
